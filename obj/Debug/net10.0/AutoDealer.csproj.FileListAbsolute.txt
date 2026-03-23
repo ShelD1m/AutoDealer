@@ -1,0 +1,14 @@
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\bin\Debug\net10.0\AutoDealer.exe
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\bin\Debug\net10.0\AutoDealer.deps.json
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\bin\Debug\net10.0\AutoDealer.runtimeconfig.json
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\bin\Debug\net10.0\AutoDealer.dll
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\bin\Debug\net10.0\AutoDealer.pdb
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.AssemblyInfoInputs.cache
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.AssemblyInfo.cs
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.csproj.CoreCompileInputs.cache
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.dll
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\refint\AutoDealer.dll
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.pdb
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.genruntimeconfig.cache
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\ref\AutoDealer.dll
