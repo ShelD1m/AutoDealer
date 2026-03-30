@@ -12,3 +12,4 @@ C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\refint\Au
 C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.pdb
 C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.genruntimeconfig.cache
 C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\ref\AutoDealer.dll
+C:\Users\ShelDon\RiderProjects\AutoDealer\AutoDealer\obj\Debug\net10.0\AutoDealer.sourcelink.json
